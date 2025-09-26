@@ -1,0 +1,22 @@
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+*.log
+~$*
+
+# Power BI auto-backups
+*.pbix.autosave
+*.pbit.autosave
+*.rsd.autosave
+*.bak
+
+# Excel / Office auto-backups
+~$*
+*.xlk
+*.xlsx~
+*.xlsb~
+*.xlsm~
